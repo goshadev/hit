@@ -10,6 +10,7 @@ void main()
 	printf("enter 2 numbers:");
 	scanf("%d%d",&a,&b);
 	/* Summerize numbers efficiently. ... */
+
 	if (b>=a) 
 	{
 		while (i<=a)
